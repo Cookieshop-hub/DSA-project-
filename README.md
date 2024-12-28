@@ -3,14 +3,20 @@
 # File System Simulator
 
 ## Overview
-The File System Simulator is a learning tool designed to emulate basic file system operations such as creating, deleting, reading, and writing files. It provides students and professionals with a hands-on approach to understanding file system concepts and functionalities.
 
-## Features
-- File Operations: Create, delete, read, and write files.
-- Directory Management: Create and organize directories.
-- File Allocation Methods: Simulate allocation techniques like contiguous, linked, and indexed allocation.
-- Disk Management: Visualize and manage disk space with free space management.
-- User Interface: Command-line or graphical user interface for ease of use.
+A File System Simulator is like a simple software program that imitates how a computer stores and organizes files. It’s not a real file system but works in a similar way to help people understand or test how file systems work.
+
+# Files and Folders:
+Just like your computer has files and folders, the simulator lets you create, delete, or organize files and folders virtually.
+
+# Memory Management: 
+It shows how space is used in storage and helps you see what happens when memory fills up.
+
+# File Operations: 
+You can perform actions like opening, reading, writing, or deleting files, just like in a real system.
+
+# Learning Tool: 
+It’s useful for learning how computers handle files behind the scenes, such as how files are stored in blocks or how directories keep track of them.
 
 ## Usage
 ### Prerequisites
