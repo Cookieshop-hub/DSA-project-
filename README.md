@@ -24,13 +24,9 @@ It’s useful for learning how computers handle files behind the scenes, such as
 - Basic knowledge of file systems.
 
 ## System Requirements
-- **Operating Systems**: Windows, Linux
+- **Operating Systems**: Windows,
 - **Hardware**: Minimum 2 GB RAM, 500 MB free disk space
 
-## Future Enhancements
-- Advanced visualization tools for file and disk structures.
-- Support for real-time collaboration or shared simulations.
-- Extended support for various file system types.
 
 ## Project code 
 
